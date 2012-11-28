@@ -1,3 +1,4 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem 'twitter'
+# Specify your gem's dependencies in twitter-backup.gemspec
+gemspec
